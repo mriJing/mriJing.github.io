@@ -9,8 +9,6 @@
         <link>https://mrijing.github.io/</link>
         <description>Краткое описание канала</description>
         <language>ru</language>
-        <turbo:analytics></turbo:analytics>
-        <turbo:adNetwork></turbo:adNetwork>
         <item turbo="true">
             <!-- Информация о странице -->
             <turbo:extendedHtml>true</turbo:extendedHtml>
