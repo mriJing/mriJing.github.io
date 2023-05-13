@@ -1,34 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:yandex="http://news.yandex.ru"
-     xmlns:media="http://search.yahoo.com/mrss/"
-     xmlns:turbo="http://turbo.yandex.ru"
-     version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:turbo="http://turbo.yandex.ru" xmlns:yandex="http://news.yandex.ru">
     <channel>
-        <!-- Информация о сайте-источнике -->
+        
         <title>Название канала</title>
         <link>https://mrijing.github.io/</link>
         <description>Краткое описание канала</description>
-        <language>ru</language>
-        <item turbo="true">
-            <!-- Информация о странице -->
+        <language>ru</language><item turbo="true">
+            
             <turbo:extendedHtml>true</turbo:extendedHtml>
             <link>https://mrijing.github.io/</link>
             <pubDate>Tue, 21 Apr 2015 14:15:00 +0300</pubDate>
             <author>Иван Иванов</author>
-            <yandex:related></yandex:related>
+            <yandex:related/>
             <turbo:content>
                 <![CDATA[
  <header>
     <h1>Саламалекум</h1>
+  </header>
   <body>
     <h1>Href Attribute Example</h1>
     <p>
       <a href="https://www.freecodecamp.org/contribute/">The freeCodeCamp Contribution Page</a> shows you how and where you can contribute to freeCodeCamp's community and growth.
     </p>
   </body>
-  </header>
-
-                ]]> 
+                ]]>
             </turbo:content>
         </item>
     </channel>
